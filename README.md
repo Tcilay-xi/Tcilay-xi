@@ -33,7 +33,7 @@ Wish you a good-looking profile README!
 <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=55%2C66%2C79&width=435&lines=%F0%9F%91%8BHello!+Tcilay+here.;Nice+to+meet+you!&center=true">
 </h1>
 
-<h3 align="center">A studen from China</h3>
+<h3 align="center">A student from China</h3>
 
 
 ---
