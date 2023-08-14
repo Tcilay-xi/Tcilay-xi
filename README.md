@@ -56,6 +56,10 @@ Wish you a good-looking profile README!
 <h3 align="center"><a href="https://blog.tcilay.fun" target="_blank" rel="noreferrer">:pencil: Latest blog posts</a></h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [aria2+rclone实现OneDrive等离线下载教程](https://blog.tcilay.fun/posts/2022/aria2-OneDrive实现离线下载教程)
+- [cloudflare一直爆520错误的解决方法](https://blog.tcilay.fun/posts/2022/cloudflare一直爆520错误的解决方法)
+- [提问的智慧](https://blog.tcilay.fun/posts/2022/提问的智慧)
+- [树莓派上安装宝塔面板和相关nginx环境](https://blog.tcilay.fun/posts/2022/树莓派上安装宝塔面板和相关nginx环境)
 <!-- BLOG-POST-LIST:END -->
 
 ---
