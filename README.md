@@ -60,7 +60,7 @@ Wish you a good-looking profile README!
 - [cloudflare一直爆520错误的解决方法](https://blog.tcilay.fun/posts/2022/cloudflare一直爆520错误的解决方法)
 - [提问的智慧](https://blog.tcilay.fun/posts/2022/提问的智慧)
 - [树莓派上安装宝塔面板和相关nginx环境](https://blog.tcilay.fun/posts/2022/树莓派上安装宝塔面板和相关nginx环境)
-- [删除TR069-摆脱运营商对你的光猫控制](https://blog.tcilay.fun/posts/2023/删除TR069-摆脱运营商对你的光猫控制)
+- [DediPath官宣跑路](https://blog.tcilay.fun/posts/2023/a001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
